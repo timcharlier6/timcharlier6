@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tim Charlier !
+- 👀 I’m interested in music and computers and every day learning 
+- 🌱 I’m currently learning PHP
