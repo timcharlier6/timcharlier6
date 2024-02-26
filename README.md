@@ -8,4 +8,4 @@
 - [HTML/CSS - Taco Shop](https://timcharlier6.github.io/html-project.github.io/index.html)
 
 
-https://github.com/timcharlier6/memoryHouse/tree/main/
+https://github.com/timcharlier6/memoryHouse/
