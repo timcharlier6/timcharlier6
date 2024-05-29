@@ -9,5 +9,3 @@
 - [Node - Card Game](https://github.com/timcharlier6/oldMaid)
 - [Tailwind_Typescript_React - Music Set List](https://github.com/timcharlier6/setList-01-06-24?tab=readme-ov-file)
 
-
-https://github.com/timcharlier6/memoryHouse/
