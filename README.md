@@ -6,6 +6,8 @@
 - [React - Pomodoro Timer](https://bespoke-tarsier-8bbcc7.netlify.app/)
 - [Javascript ES6 - tutorial](https://timcharlier6.github.io/my-es6-tutorial.github.io/index1.html)
 - [HTML/CSS - Taco Shop](https://timcharlier6.github.io/html-project.github.io/index.html)
+- [Node - Card Game](https://github.com/timcharlier6/oldMaid)
+- [Tailwind_Typescript_React - Music Set List](https://github.com/timcharlier6/setList-01-06-24?tab=readme-ov-file)
 
 
 https://github.com/timcharlier6/memoryHouse/
