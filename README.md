@@ -8,4 +8,5 @@
 - [HTML/CSS - Taco Shop](https://timcharlier6.github.io/html-project.github.io/index.html)
 - [Node - Card Game](https://github.com/timcharlier6/oldMaid)
 - [Tailwind_Typescript_React - Music Set List](https://github.com/timcharlier6/setList-01-06-24?tab=readme-ov-file)
+- [Javascript - Calculator](https://codepen.io/timcharlier6/pen/eYwOgYY?editors=1111)
 
