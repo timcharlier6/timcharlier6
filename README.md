@@ -2,6 +2,7 @@
 - 👀 I'm interested in web development ! 
 - 🌱 I’m currently learning on Frontend masters, Dave Gray YT Channel, FreeCode Camp, W3 Schools, and Coursera! 
 ## View my projects
+- [HTML/CSS/JS - Metronome](https://timcharlier6.github.io/metronome.github.io/)
 - [HTML/CSS/JS - White Noise Generator](https://timcharlier6.github.io/noiseJS.github.io/)
 - [ToneJs - Piano](https://timcharlier6.github.io/my-first-synth.github.io/)
 - [React - Pomodoro Timer](https://bespoke-tarsier-8bbcc7.netlify.app/)
