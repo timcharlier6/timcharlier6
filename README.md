@@ -3,6 +3,5 @@
 
 - 👋 Hi, I’m Tim Charlier !
 - 👀 I'm a junior web developer/IT support.
-
-View my projects here: [**Portfolio**](https://main--portfolio-tim.netlify.app/)
+- My projects are here: [**Portfolio**](https://main--portfolio-tim.netlify.app/)
 
