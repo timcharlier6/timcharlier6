@@ -5,5 +5,5 @@
 
 ## View my projects
 
->>>>[Portfolio](https://main--portfolio-tim.netlify.app/)
+[**Portfolio**](https://main--portfolio-tim.netlify.app/)
 
