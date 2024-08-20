@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Tim Charlier !
-- 👀 I'm a junior web developer/IT support.
 
 # Welcome on my github
 
-## View my projects
+- 👋 Hi, I’m Tim Charlier !
+- 👀 I'm a junior web developer/IT support.
 
-[**Portfolio**](https://main--portfolio-tim.netlify.app/)
+View my projects here: [**Portfolio**](https://main--portfolio-tim.netlify.app/)
 
