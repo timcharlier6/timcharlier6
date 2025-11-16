@@ -9,8 +9,7 @@ In the past ten years I've done:
 - 1 internship for ESI Informatique.
 - More than 300 gigs with 16 orchestras.
 - 36 online courses.
-- 2 static websites.
-- 
+- 2 professional static websites.
 - 1 technical english test.
 
 I'm currently doing:
