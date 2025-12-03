@@ -14,10 +14,7 @@ In the past ten years I've done:
 
 I'm currently doing:
 - 42 school cursus.
-- Open-source collaborations for WikiMedia software.
-
-My projects are presented in my [**portfolio**](https://main--portfolio-tim.netlify.app/)
-
+- Open-source collaborations.
 
 [**Linkedin**](https://www.linkedin.com/in/timcharlier6/)
 [**Gitlab**](https://gitlab.com/timcharlier6)
