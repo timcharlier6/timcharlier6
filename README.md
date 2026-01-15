@@ -10,8 +10,8 @@ In the past ten years I've done:
 - More than 300 gigs with 16 orchestras.
 - 36 online courses.
 - 2 professional static websites
-  - [website 1](www.timcharlier.com)
-  - [website 2](www.michelsponx.fr)
+  - [website 1](https://www.timcharlier.com)
+  - [website 2](https://www.michelsponx.fr)
 - Lots of small personal coding projects...
 
 I'm currently doing:
